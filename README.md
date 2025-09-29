@@ -1,12 +1,3 @@
-Beleza, bora deixar esse código **limpo, fluido e organizado** pra você.
-
-Vou te entregar uma versão **completa, funcionando e fácil de manter**, com HTML, CSS e JS separados dentro do mesmo arquivo, tudo certinho.
-
----
-
-# Aqui está a versão atualizada e ajustada do seu código:
-
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
