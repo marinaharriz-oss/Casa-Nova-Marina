@@ -1,8 +1,4 @@
-Show! Vou te passar o código completo com imagens genéricas de casa (de banco grátis, bem neutras) no lugar de todas as fotos atuais — vai deixar o site com visual mais consistente.
 
-Aqui o código completo, já com as URLs das imagens substituídas para fotos de casa neutras:
-
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
