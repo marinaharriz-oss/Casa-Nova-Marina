@@ -272,4 +272,3 @@
 <footer>
   <p>Endereço: Rua das Gardênias, 25, apto 61 - Mirandólis - São Paulo</p>
   <p>
-```
