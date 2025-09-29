@@ -1,0 +1,63 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #fffafc;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #f8dce2;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  color: #b34766;
+}
+#contador {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #f8dce2;
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #b34766;
+}
+section {
+  max-width: 1000px;
+  margin: auto;
+  padding: 30px 20px;
+}
+.emoji {
+  font-size: 2em;
+}
+img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+.gift-item, .how-to-help div {
+  background: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  text-align: center;
+}
+button {
+  background: #b34766;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background: #8c2f4d;
+}
+footer {
+  background: #f8dce2;
+  padding: 20px;
+  text-align: center;
+  color: #b34766;
+}
