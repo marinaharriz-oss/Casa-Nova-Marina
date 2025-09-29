@@ -1,8 +1,3 @@
-Claro! Vou te enviar o código completo do seu site, já organizado para ser mais fluido e responsivo usando CSS Grid, Flexbox, e algumas melhorias em tipografia e imagens.
-
----
-
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
